@@ -1,0 +1,7 @@
+git clone https://github.com/username/hello-world.git
+git config --global user.email "cobedien@cisco.com"
+git config --global user.name "cobedien"
+git add . (dont forget to add . at the end)
+git status
+git commit -m "modified README file"
+git push -u origin master
